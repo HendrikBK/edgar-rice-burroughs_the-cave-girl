@@ -1,2 +1,20 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+/* Letters in chapter 2-6 */
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
