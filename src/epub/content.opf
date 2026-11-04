@@ -50,9 +50,10 @@
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<meta property="schema:abstract">ABSTRACT</meta>
+		<meta property="schema:abstract">An American castaway finds himself in an island inhabited by stone-age people.</meta>
 		<dc:description>
-			DESCRIPTION
+			&lt;p&gt;Waldo Emerson Smith-Jones is the sheltered, overly educated son of a prominent Boston family. During a sea voyage to the South Seas, he becomes a castaway in a secluded island. During his stay in the island, he becomes enamored with a local woman, and must learn how to survive in the harsh, uncivilized island environment before he can return to civilization.&lt;/p&gt;
+			&lt;p&gt;Like other &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Edgar Rice Burroughs&lt;/a&gt; works, &lt;i&gt;The Cave Girl&lt;/i&gt; was first serialized in periodicals before being published in book form. The first part of the story was titled “The Cave Girl” and was serialized in &lt;i&gt;All-Story&lt;/i&gt; in 1913; the second part, titled “The Cave Man,” was serialized in &lt;i&gt;All-Story Weekly&lt;/i&gt; in 1917.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/69191</dc:source>
